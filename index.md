@@ -1,5 +1,8 @@
 ---
 title: Welcome to my blog
+theme: minima
+author: LeBron James
+description: THE MOST EPICCC WEBSITE EVER
 ---
 
 # header 1
